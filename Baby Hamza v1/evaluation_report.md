@@ -19,7 +19,9 @@ Generated on: 2025-05-05 14:19:11
 
 ## Dataset Information
 
-Number of test samples: 13229
+Number of test samples: 13229.
+
+Used HS_Wins dataset
 
 ## Regression Metrics
 
@@ -116,3 +118,10 @@ Number of test samples: 13229
 ## Prediction Plots
 
 ![Prediction Plots](evaluation_plots.png)
+
+## Real World Usage 
+Is able to go around the Speedway track on it's own, mostly with out crashing.
+
+One iteration found that if it started ahead of other players, it would knock them ioff the track and continue on.
+
+It has not been able to overtake other players.
